@@ -6,8 +6,13 @@ import NewSolidComponent from './components/NewSolidComponent';
 function App() {
   return (
     <div className="App">
+
 <p>Old-branch</p>
 <NewSolidComponent />     
+
+<p>master-branch</p>
+     
+
     </div>
   );
 }
